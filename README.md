@@ -1,3 +1,15 @@
+<div align="center">
+
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pawan%20Tiwari&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=🚀%20Full-Stack%20Developer%20%7C%20CS%20Student%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
+
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&repeat=true&width=600&height=60&lines=💻+Full-Stack+Development;🌱+Learning+Advanced+Backend;⚡+Building+Impactful+Projects;🔥+Open+Source+%7C+Problem+Solving" alt="Typing SVG"/>
+
+</div>
+
+---
+
 # 💫 About Me:
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -118,5 +130,8 @@
 <div align="center">
 
 ### 🚀 "Code • Create • Innovate"
+
+<!-- ANIMATED FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65&desc=⭐%20Star%20anything%20you%20find%20useful!&descAlignY=85&descSize=14" width="100%"/>
 
 </div>
