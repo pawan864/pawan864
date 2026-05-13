@@ -79,13 +79,6 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pawan864/pawan864/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
