@@ -66,11 +66,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pawan864&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
----
-
 # 📈 Contribution Graph
 [![Pawan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pawan864&theme=tokyo-night)](https://github.com/pawan864)
 
