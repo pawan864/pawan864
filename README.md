@@ -1,8 +1,7 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pawan%20Tiwari&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=🚀%20Full-Stack%20Developer%20%7C%20CS%20Student%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
-
+<!-- HEADER IMAGE -->
+<img src="YOUR_IMAGE_LINK_HERE" width="100%"/>
 
 </div>
 
@@ -129,7 +128,6 @@
 
 ### 🚀 "Code • Create • Innovate"
 
-<!-- ANIMATED FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65&desc=⭐%20Star%20anything%20you%20find%20useful!&descAlignY=85&descSize=14" width="100%"/>
 
 </div>
