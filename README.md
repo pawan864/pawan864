@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER IMAGE -->
-<img src="YOUR_IMAGE_LINK_HERE" width="100%"/>
+<img src="https://github.com/pawan864/pawan864/blob/main/profile.png" width="100%"/>
 
 </div>
 
